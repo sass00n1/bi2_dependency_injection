@@ -1,5 +1,5 @@
 # bi2_injection
-The Dependency Injection system we use in Bubble Island 2 (for Unity3D, but should work in pure C#)
+我们在 《Bubble Island 2》 中使用的依赖注入系统（适用于 Unity3D，但应该在纯 C# 中工作）
 
 ## History
 
